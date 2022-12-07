@@ -1,5 +1,7 @@
 # Design Plan for the @JRamos's Test Framework project.
 
+## Objective
+
 This project is designed to track my work while creating a fully-automated test framework, meaning that not only the tests are automated, but also the deployment and configuration of test environments, running of tests, tracking, and collection of results, etc.
 
 ## Description
@@ -36,22 +38,12 @@ Some requirements for the test framework are:
 * It should be easy to use from different user roles
 * Documentation
 
-
-
-
-* 
-
-
-
-## Objective of the project
-
-
-## High-level main tasks
 ## Time frame for the project
+This is a persona project, but I want to have a MVP in less than two months. Considering the holydays, by the beginning of February. This will be specified after the creation of the issues 
+
 ## Expected results
+An MVP that can be easily executed by anybody interested
 
-### Fully Automated Test Framework - CI\CD integrated
-
-This project is designed to track my work while creating a fully-automated test framework, meaning that not only the tests are automated, but also the deployment and configuration of test environments, running of tests, tracking, and collection of results, etc.
-
-GitHub Repository: https://github.com/JulioRamos/test-cycle-sample-RF
+## Starting date
+I'm starting this project on December 7th, 2022. I want to have the MVP in the middle of February.
+Good luck.
