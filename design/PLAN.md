@@ -17,11 +17,11 @@ The test framework will be built from the scratch. The framework must include:
   * Deploy a docker image with its dependencies
   * Installation of the dependencies
   * Deploy necessary files
-* Deploy of the test environment
-  * Collection of test artifcats
-  * Deploy of test targets (docker images, VMs)
+* Deploy the test environment
+  * Collection of test artifacts
+  * Deploy the test targets (docker images, VMs)
   * Installation of dependencies
-  * Installation of necessary software (webservers, browser, browser drivers, desktop apps, etc)
+  * Installation of necessary software (web servers, browser, browser drivers, desktop apps, etc)
 * Design of sample test cases
   * Design a couple of test suites and test cases to demonstrate the usage of the framework
   * Include at least one test suite for Windows Desktop Applicatio, one for UI Web Test and one for an API
